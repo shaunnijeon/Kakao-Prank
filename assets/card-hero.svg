@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570">
+<rect width="1200" height="570" fill="#FFEB00"/>
+<!-- Light doodle heart --><path d="M1060 131 C1109 84 1189 122 1177 190 C1169 230 1126 257 1083 280 C1036 248 997 222 993 182 C986 129 1025 101 1060 131Z" fill="#FFE25E" opacity=".55"/>
+<!-- lettering --><text x="70" y="150" font-family="NanumSquare, 'Noto Sans CJK KR', sans-serif" font-size="95" font-weight="900" fill="#202020" letter-spacing="-6">송금보내요</text>
+<!-- bear drop shadow and trousers -->
+<ellipse cx="956" cy="537" rx="190" ry="18" fill="#D4AC00" opacity=".28"/>
+<path d="M793 485 Q815 460 881 478 Q928 466 965 479 Q1018 466 1077 492 Q1132 526 1102 550 Q1074 561 1003 540 Q958 551 913 544 Q857 558 807 551 Q769 545 793 485Z" fill="#996C3C" stroke="#1E1B16" stroke-width="9" stroke-linejoin="round"/>
+<!-- arms and torso -->
+<path d="M827 354 C771 373 753 413 773 444 C794 475 834 447 859 428 L880 490 Q954 524 1063 482 L1067 414 Q1110 455 1146 435 Q1167 423 1155 401 Q1139 363 1071 348Z" fill="#F6BA61" stroke="#1E1B16" stroke-width="10" stroke-linejoin="round"/>
+<!-- head and ears -->
+<path d="M832 175 Q826 148 850 140 Q869 131 886 156 Q955 130 1028 161 Q1050 141 1073 159 Q1091 172 1079 203 Q1122 275 1081 345 Q1066 380 984 387 Q886 399 842 349 Q801 290 832 175Z" fill="#F7C574" stroke="#1E1B16" stroke-width="11" stroke-linejoin="round"/>
+<!-- facial cheeks -->
+<ellipse cx="859" cy="305" rx="36" ry="24" fill="#FFA99D" opacity=".8"/>
+<ellipse cx="1069" cy="305" rx="32" ry="22" fill="#FFA99D" opacity=".8"/>
+<!-- eyes -->
+<ellipse cx="916" cy="268" rx="8" ry="12" fill="#29221A"/>
+<ellipse cx="1017" cy="269" rx="8" ry="12" fill="#29221A"/>
+<path d="M955 281 Q973 267 992 281 Q982 294 968 294 Q962 294 955 281" fill="#32251C"/>
+<path d="M974 294 Q974 315 951 324 M974 297 Q980 318 1005 317" fill="none" stroke="#29221A" stroke-width="7" stroke-linecap="round"/>
+<path d="M972 305 Q1001 296 996 334 Q989 353 979 339Z" fill="#EE7979" stroke="#32251C" stroke-width="5"/>
+<!-- hand reaching toward heart -->
+<path d="M811 406 Q789 367 784 317 Q776 288 750 286 Q724 285 717 309 Q712 335 749 345 Q758 395 774 427Z" fill="#F6BA61" stroke="#1E1B16" stroke-width="10" stroke-linejoin="round"/>
+<!-- heart near hand -->
+<path d="M741 264 C708 220 648 234 646 289 C644 328 684 358 741 397 C798 356 841 326 839 287 C838 234 773 221 741 264Z" fill="#F39BB7" stroke="#D96C92" stroke-width="11" stroke-linejoin="round"/>
+<ellipse cx="689" cy="274" rx="15" ry="11" fill="#FFD6E3" opacity=".78"/>
+<circle cx="819" cy="255" r="9" fill="#FFF3F7"/>
+</svg>
